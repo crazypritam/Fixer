@@ -3,8 +3,8 @@ Cleaning
 
 
 sc query:
-https://notepad.pw/fixerio
+https://notepad.pw/scquery
 
 direct links to fixes:
-https://notepad.pw/policyfix
+https://notepad.pw/windowsclean
 
